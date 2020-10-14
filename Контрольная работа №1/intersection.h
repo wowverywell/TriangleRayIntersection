@@ -1,0 +1,1 @@
+Point intersect(Point, Point, Point, int);

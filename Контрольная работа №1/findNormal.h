@@ -1,0 +1,1 @@
+Point coorNormal(Point, Point, Point);

@@ -1,0 +1,1 @@
+int findScalar(Point, Point);

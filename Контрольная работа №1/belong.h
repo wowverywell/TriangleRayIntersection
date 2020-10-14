@@ -1,0 +1,1 @@
+int belong(Point, Point, Point, Point);
