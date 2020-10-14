@@ -1,1 +1,1 @@
-int belong(Point, Point, Point, Point);
+int belong(Point, Point, Point, Point); //yo
